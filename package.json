@@ -1,0 +1,26 @@
+{
+  "name": "crown-memory-store",
+  "version": "1.0.0",
+  "description": "Memory store for Crown",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "vdemedes/crown-memory-store",
+  "author": {
+    "name": "Vadim",
+    "email": "vdemedes@gmail.com",
+    "url": "https://github.com/vdemedes"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "pinkie-promise": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "make-lint": "^1.0.1"
+  },
+  "files": [
+    "index.js"
+  ]
+}
